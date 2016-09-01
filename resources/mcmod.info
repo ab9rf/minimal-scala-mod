@@ -1,0 +1,20 @@
+[
+{
+  "modid": "msm",
+  "name": "Minimal Scala Mod",
+  "description": "",
+  "version": "@GENERATORS_VER@",
+  "url": "http://www.github.com/ab9rf/minimal-scala-mod",
+  "updateUrl": "",
+  "authorList": [
+    "ab9rf"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
