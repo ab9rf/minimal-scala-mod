@@ -8,3 +8,9 @@
 /.gradle
 /*.iml
 /*.ipr
+/.cache-main
+/.classpath
+/.project
+/.settings
+*.launch
+/logs
