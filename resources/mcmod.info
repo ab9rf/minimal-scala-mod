@@ -3,7 +3,7 @@
   "modid": "msm",
   "name": "Minimal Scala Mod",
   "description": "",
-  "version": "@GENERATORS_VER@",
+  "version": "@MINIMALSCALAMOD_VER@",
   "url": "http://www.github.com/ab9rf/minimal-scala-mod",
   "updateUrl": "",
   "authorList": [
